@@ -13,11 +13,17 @@
         <members>APXTConga4__Conga_Composer_Settings__c.APXTConga4__Disable_C7_Triggers__c</members>
         <members>APXTConga4__Conga_Composer_Settings__c.APXTConga4__Production_Org_Id__c</members>
         <members>APXTConga4__Conga_Composer_Settings__c.APXTConga4__Server_Override__c</members>
+        <members>APXTConga4__Conga_Email_Staging__c.APXTConga4__HTMLBody__c</members>
+        <members>APXTConga4__Conga_Email_Staging__c.APXTConga4__Subject__c</members>
+        <members>APXTConga4__Conga_Email_Staging__c.APXTConga4__TextBody__c</members>
+        <members>APXTConga4__Conga_Email_Staging__c.APXTConga4__WhatId__c</members>
+        <members>APXTConga4__Conga_Email_Staging__c.APXTConga4__WhoId__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>APXTConga4__Composer_QuickMerge__c</members>
         <members>APXTConga4__Conga_Composer_Settings__c</members>
+        <members>APXTConga4__Conga_Email_Staging__c</members>
         <name>CustomObject</name>
     </types>
 </Package>
