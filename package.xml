@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>41.0</version>
+    <types>
+        <members>APXTConga4__Composer_QuickMerge__c.APXTConga4__Conga_Solution__c</members>
+        <members>APXTConga4__Composer_QuickMerge__c.APXTConga4__Description__c</members>
+        <members>APXTConga4__Composer_QuickMerge__c.APXTConga4__Launch_CM8__c</members>
+        <members>APXTConga4__Composer_QuickMerge__c.APXTConga4__Weblink_ID_Formula__c</members>
+        <members>APXTConga4__Composer_QuickMerge__c.APXTConga4__Weblink_ID__c</members>
+        <members>APXTConga4__Composer_QuickMerge__c.APXTConga4__Weblink_Name_Formula__c</members>
+        <members>APXTConga4__Composer_QuickMerge__c.APXTConga4__Weblink_Name__c</members>
+        <members>APXTConga4__Conga_Composer_Settings__c.APXTConga4__Comments__c</members>
+        <members>APXTConga4__Conga_Composer_Settings__c.APXTConga4__Disable_C7_Triggers__c</members>
+        <members>APXTConga4__Conga_Composer_Settings__c.APXTConga4__Production_Org_Id__c</members>
+        <members>APXTConga4__Conga_Composer_Settings__c.APXTConga4__Server_Override__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>APXTConga4__Composer_QuickMerge__c</members>
+        <members>APXTConga4__Conga_Composer_Settings__c</members>
+        <name>CustomObject</name>
+    </types>
+</Package>
